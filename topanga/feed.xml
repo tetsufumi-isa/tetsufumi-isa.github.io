@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>トパンガ</title>
+    <link>https://tetsufumi-isa.github.io/topanga/</link>
+    <description>トパンガ の音声Podcast</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 15 Apr 2025 22:16:32 -0000</lastBuildDate>
+    
+    <item>
+      <title>勝ちたがりTV #605 放送600回突破記念</title>
+      <enclosure url="https://tetsufumi-isa.github.io/topanga/04-15：勝ちたがりTV #605 放送600回突破記念.mp3" length="99629924" type="audio/mpeg" />
+      <guid>https://tetsufumi-isa.github.io/topanga/04-15：勝ちたがりTV #605 放送600回突破記念.mp3</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:19:10</itunes:duration>
+    </item>
+  </channel>
+</rss>
