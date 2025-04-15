@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>タップアウトTV</title>
+    <link>https://tetsufumi-isa.github.io/tapouttv/</link>
+    <description>タップアウトTV の音声Podcast</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 15 Apr 2025 07:57:40 -0000</lastBuildDate>
+    
+    <item>
+      <title>【朝倉未来】皇治の事件を考察【萩原京平】RIZIN会見での西谷大成との会話【青木</title>
+      <enclosure url="https://tetsufumi-isa.github.io/tapouttv/04-12：【朝倉未来】皇治の事件を考察【萩原京平】RIZIN会見での西谷大成との会話【青木.mp3" length="14190332" type="audio/mpeg" />
+      <guid>https://tetsufumi-isa.github.io/tapouttv/04-12：【朝倉未来】皇治の事件を考察【萩原京平】RIZIN会見での西谷大成との会話【青木.mp3</guid>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:14:46</itunes:duration>
+    </item>
+  </channel>
+</rss>

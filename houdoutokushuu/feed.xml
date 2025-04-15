@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>報道特集</title>
     <link>https://tetsufumi-isa.github.io/houdoutokushuu/</link>
     <description>報道特集 の音声Podcast</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Apr 2025 07:06:23 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 07:49:12 -0000</lastBuildDate>
     
     <item>
       <title>「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で</title>
       <enclosure url="https://tetsufumi-isa.github.io/houdoutokushuu/04-12：「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で.mp3" length="14261684" type="audio/mpeg" />
       <guid>https://tetsufumi-isa.github.io/houdoutokushuu/04-12：「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で.mp3</guid>
       <pubDate>Sat, 12 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:14:51</itunes:duration>
     </item>
   </channel>
 </rss>

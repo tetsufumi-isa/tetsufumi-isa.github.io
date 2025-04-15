@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ちびペンギン</title>
+    <link>https://tetsufumi-isa.github.io/chibipen/</link>
+    <description>ちびペンギン の音声Podcast</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 15 Apr 2025 08:01:55 -0000</lastBuildDate>
+    
+    <item>
+      <title>【速報】Tadedustが千葉県のラッパーに集中砲火されてる件やAwich海外デ</title>
+      <enclosure url="https://tetsufumi-isa.github.io/chibipen/04-14：【速報】Tadedustが千葉県のラッパーに集中砲火されてる件やAwich海外デ.mp3" length="9679148" type="audio/mpeg" />
+      <guid>https://tetsufumi-isa.github.io/chibipen/04-14：【速報】Tadedustが千葉県のラッパーに集中砲火されてる件やAwich海外デ.mp3</guid>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+    </item>
+  </channel>
+</rss>
