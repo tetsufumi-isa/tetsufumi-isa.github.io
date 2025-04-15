@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>鬼越トマホーク</title>
+    <link>https://tetsufumi-isa.github.io/onigoe/</link>
+    <description>鬼越トマホーク の音声Podcast</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 15 Apr 2025 07:18:56 -0000</lastBuildDate>
+    
+    <item>
+      <title>【緊急】我々は松井ケムリを絶対に許さない【鬼越トマホーク】</title>
+      <enclosure url="https://tetsufumi-isa.github.io/onigoe/04-14：【緊急】我々は松井ケムリを絶対に許さない【鬼越トマホーク】.mp3" length="16979036" type="audio/mpeg" />
+      <guid>https://tetsufumi-isa.github.io/onigoe/04-14：【緊急】我々は松井ケムリを絶対に許さない【鬼越トマホーク】.mp3</guid>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>数々の賞レースで結果を残し今春上京したからし蓮根に聞きたいこと聞きまくったら意外</title>
+      <enclosure url="https://tetsufumi-isa.github.io/onigoe/04-12：数々の賞レースで結果を残し今春上京したからし蓮根に聞きたいこと聞きまくったら意外.mp3" length="41329076" type="audio/mpeg" />
+      <guid>https://tetsufumi-isa.github.io/onigoe/04-12：数々の賞レースで結果を残し今春上京したからし蓮根に聞きたいこと聞きまくったら意外.mp3</guid>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
