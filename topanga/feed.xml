@@ -5,14 +5,15 @@
     <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga/</link>
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Apr 2025 14:29:41 -0000</lastBuildDate>
+    <itunes:category text="News"/>
+    <lastBuildDate>Wed, 16 Apr 2025 14:42:07 -0000</lastBuildDate>
     
     <item>
       <title>TOPANGA TV #666 EWCのスケジュール発表されたね！</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga/04-16：TOPANGA TV #666 EWCのスケジュール発表されたね！.mp3" length="86993195" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga/04-16：TOPANGA TV #666 EWCのスケジュール発表されたね！.mp3</guid>
       <pubDate>Wed, 16 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:01:27</itunes:duration>
+      <itunes:duration>02:01:26</itunes:duration>
     </item>
     <item>
       <title>勝ちたがりTV #605 放送600回突破記念</title>
