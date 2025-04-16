@@ -2,17 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>報道1930</title>
-    <link>https://tetsufumi-isa.github.io/houdou1930/</link>
+    <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/</link>
     <description>報道1930 の音声Podcast</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Apr 2025 22:03:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 13:40:21 -0000</lastBuildDate>
     
-    <item>
-      <title>米国145％中国125％ 報復合戦どこまで…／関税交渉 日本に策はあるのか【4月</title>
-      <enclosure url="https://tetsufumi-isa.github.io/houdou1930/04-11：米国145％中国125％ 報復合戦どこまで…／関税交渉 日本に策はあるのか【4月.mp3" length="36997772" type="audio/mpeg" />
-      <guid>https://tetsufumi-isa.github.io/houdou1930/04-11：米国145％中国125％ 報復合戦どこまで…／関税交渉 日本に策はあるのか【4月.mp3</guid>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-    </item>
   </channel>
 </rss>
