@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>永野ch</title>
+    <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/nagano/</link>
+    <description>永野ch の音声Podcast</description>
+    <language>ja</language>
+    <itunes:category text="News"/>
+    <lastBuildDate>Thu, 17 Apr 2025 08:48:32 -0000</lastBuildDate>
+    
+    <item>
+      <title>【新アルバム発売】ケンドリック・ラマーは何が凄いのか!ドレイクとのビーフはもちろ</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/nagano/04-15：【新アルバム発売】ケンドリック・ラマーは何が凄いのか!ドレイクとのビーフはもちろ.mp3" length="27659972" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/nagano/04-15：【新アルバム発売】ケンドリック・ラマーは何が凄いのか!ドレイクとのビーフはもちろ.mp3</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:46:50</itunes:duration>
+    </item>
+  </channel>
+</rss>
