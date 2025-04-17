@@ -3,16 +3,16 @@
   <channel>
     <title>報道特集</title>
     <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/</link>
-    <description>報道特集 の音声Podcast</description>
+    <description>報道特集 の音声 Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 16 Apr 2025 23:20:22 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 03:27:37 -0000</lastBuildDate>
     
     <item>
       <title>「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/04-12：「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で.mp3" length="14261684" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/04-12：「シフトを組んで24時間働く」未完成パビリオンも　大阪・関西万博メタンガス問題で.mp3</guid>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 -0000</pubDate>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0900</pubDate>
       <itunes:duration>00:00:00</itunes:duration>
     </item>
   </channel>
