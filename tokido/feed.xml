@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ときどch</title>
+    <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/</link>
+    <description>ときどch の音声Podcast</description>
+    <language>ja</language>
+    <itunes:category text="News"/>
+    <lastBuildDate>Sun, 20 Apr 2025 22:57:51 -0000</lastBuildDate>
+    
+    <item>
+      <title>Saturday morning ( ･´ｰ･｀)!</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/04-19：Saturday morning ( ･´ｰ･｀)!.mp3" length="123213644" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/04-19：Saturday morning ( ･´ｰ･｀)!.mp3</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:43:18</itunes:duration>
+    </item>
+  </channel>
+</rss>
