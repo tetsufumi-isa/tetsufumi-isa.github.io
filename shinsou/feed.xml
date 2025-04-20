@@ -6,8 +6,22 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 19 Apr 2025 00:13:48 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:35:02 -0000</lastBuildDate>
     
+    <item>
+      <title>米・欧・ウクライナ会談も米国務長官「進展なければ仲介断念」ウクライナ停戦協議難航</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-19：米・欧・ウクライナ会談も米国務長官「進展なければ仲介断念」ウクライナ停戦協議難航.mp3" length="27345980" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-19：米・欧・ウクライナ会談も米国務長官「進展なければ仲介断念」ウクライナ停戦協議難航.mp3</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:44:11</itunes:duration>
+    </item>
+    <item>
+      <title>トランプ氏が急遽“参戦”のワケ…“トランプ関税”日米交渉の舞台裏を徹底解説▽アメ</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-19：トランプ氏が急遽“参戦”のワケ…“トランプ関税”日米交渉の舞台裏を徹底解説▽アメ.mp3" length="31830596" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-19：トランプ氏が急遽“参戦”のワケ…“トランプ関税”日米交渉の舞台裏を徹底解説▽アメ.mp3</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:51:55</itunes:duration>
+    </item>
     <item>
       <title>ウクライナ北東部に露軍クラスター弾「ダブルタップ」攻撃か…ゼレンスキー氏「パトリ</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-17：ウクライナ北東部に露軍クラスター弾「ダブルタップ」攻撃か…ゼレンスキー氏「パトリ.mp3" length="30303524" type="audio/mpeg" />
@@ -27,7 +41,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-15：スマホやPC 「除外」から一転「対象」に...迷走する“トランプ関税”日本が譲歩.mp3" length="30157748" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-15：スマホやPC 「除外」から一転「対象」に...迷走する“トランプ関税”日本が譲歩.mp3</guid>
       <pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:50:28</itunes:duration>
+      <itunes:duration>00:50:27</itunes:duration>
     </item>
   </channel>
 </rss>

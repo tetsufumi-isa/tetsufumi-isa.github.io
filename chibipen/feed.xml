@@ -6,8 +6,15 @@
     <description>ちびペンギン の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 19 Apr 2025 00:19:10 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:38:29 -0000</lastBuildDate>
     
+    <item>
+      <title>May4が嫌われる理由..そしてHIPHOPじゃなかった件</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-19：May4が嫌われる理由..そしてHIPHOPじゃなかった件.mp3" length="9403772" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-19：May4が嫌われる理由..そしてHIPHOPじゃなかった件.mp3</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:10:50</itunes:duration>
+    </item>
     <item>
       <title>JJJの人生と音楽ー突然の訃報に広がる悲しみー</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-16：JJJの人生と音楽ー突然の訃報に広がる悲しみー.mp3" length="6497324" type="audio/mpeg" />
