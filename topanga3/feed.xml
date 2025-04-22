@@ -6,8 +6,15 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 22 Apr 2025 12:39:09 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 23:17:59 -0000</lastBuildDate>
     
+    <item>
+      <title>勝ちたがりTV  606 今週末はロードトリップ青森！</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-22：勝ちたがりTV  606 今週末はロードトリップ青森！.mp3" length="105244868" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-22：勝ちたがりTV  606 今週末はロードトリップ青森！.mp3</guid>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:15:08</itunes:duration>
+    </item>
     <item>
       <title>TOPANGA TV  666 EWCのスケジュール発表されたね！</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-16：TOPANGA TV  666 EWCのスケジュール発表されたね！.mp3" length="88930796" type="audio/mpeg" />
