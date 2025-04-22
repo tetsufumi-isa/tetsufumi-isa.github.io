@@ -6,8 +6,15 @@
     <description>ちびペンギン の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 20 Apr 2025 22:54:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 09:18:48 -0000</lastBuildDate>
     
+    <item>
+      <title>【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-21：【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ.mp3" length="8682716" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-21：【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ.mp3</guid>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:09:40</itunes:duration>
+    </item>
     <item>
       <title>May4が嫌われる理由..そしてHIPHOPじゃなかった件</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-19：May4が嫌われる理由..そしてHIPHOPじゃなかった件.mp3" length="9403772" type="audio/mpeg" />

@@ -6,8 +6,15 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 20 Apr 2025 22:51:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 09:15:32 -0000</lastBuildDate>
     
+    <item>
+      <title>トランプ氏“難癖”「日本は車にボーリング玉で試験」▽“関税合戦”米国「中国包囲網</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-22：トランプ氏“難癖”「日本は車にボーリング玉で試験」▽“関税合戦”米国「中国包囲網.mp3" length="30631004" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-22：トランプ氏“難癖”「日本は車にボーリング玉で試験」▽“関税合戦”米国「中国包囲網.mp3</guid>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:50:28</itunes:duration>
+    </item>
     <item>
       <title>米・欧・ウクライナ会談も米国務長官「進展なければ仲介断念」ウクライナ停戦協議難航</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-19：米・欧・ウクライナ会談も米国務長官「進展なければ仲介断念」ウクライナ停戦協議難航.mp3" length="27345980" type="audio/mpeg" />
@@ -27,7 +34,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-17：ウクライナ北東部に露軍クラスター弾「ダブルタップ」攻撃か…ゼレンスキー氏「パトリ.mp3" length="30303524" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-17：ウクライナ北東部に露軍クラスター弾「ダブルタップ」攻撃か…ゼレンスキー氏「パトリ.mp3</guid>
       <pubDate>Thu, 17 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:50:28</itunes:duration>
+      <itunes:duration>00:50:27</itunes:duration>
     </item>
     <item>
       <title>“トランプ関税”医薬品も検討か…輸入調査開始へ▽自動車関税見直し検討…国内生産移</title>
