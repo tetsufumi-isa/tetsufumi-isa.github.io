@@ -6,35 +6,21 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 24 Apr 2025 08:30:14 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 13:51:29 -0000</lastBuildDate>
     
     <item>
       <title>TOPANGA TV  667 ソートくりえいと やってみる</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-23：TOPANGA TV  667 ソートくりえいと やってみる.mp3" length="91719596" type="audio/mpeg" />
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-23：TOPANGA TV  667 ソートくりえいと やってみる.mp3" length="91719669" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-23：TOPANGA TV  667 ソートくりえいと やってみる.mp3</guid>
       <pubDate>Wed, 23 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:01:34</itunes:duration>
     </item>
     <item>
       <title>勝ちたがりTV  606 今週末はロードトリップ青森！</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-22：勝ちたがりTV  606 今週末はロードトリップ青森！.mp3" length="105244868" type="audio/mpeg" />
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-22：勝ちたがりTV  606 今週末はロードトリップ青森！.mp3" length="105244917" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-22：勝ちたがりTV  606 今週末はロードトリップ青森！.mp3</guid>
       <pubDate>Tue, 22 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:15:08</itunes:duration>
-    </item>
-    <item>
-      <title>TOPANGA TV  666 EWCのスケジュール発表されたね！</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-16：TOPANGA TV  666 EWCのスケジュール発表されたね！.mp3" length="88930796" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-16：TOPANGA TV  666 EWCのスケジュール発表されたね！.mp3</guid>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:01:26</itunes:duration>
-    </item>
-    <item>
-      <title>勝ちたがりTV  605 放送600回突破記念</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-15：勝ちたがりTV  605 放送600回突破記念.mp3" length="99630116" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-15：勝ちたがりTV  605 放送600回突破記念.mp3</guid>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:19:09</itunes:duration>
     </item>
   </channel>
 </rss>
