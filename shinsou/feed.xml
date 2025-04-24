@@ -6,8 +6,15 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 23 Apr 2025 15:06:19 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 03:32:47 -0000</lastBuildDate>
     
+    <item>
+      <title>【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-24：【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」.mp3" length="30501332" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-24：【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」.mp3</guid>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:50:27</itunes:duration>
+    </item>
     <item>
       <title>トランプ氏“難癖”「日本は車にボーリング玉で試験」▽“関税合戦”米国「中国包囲網</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-22：トランプ氏“難癖”「日本は車にボーリング玉で試験」▽“関税合戦”米国「中国包囲網.mp3" length="30631004" type="audio/mpeg" />
