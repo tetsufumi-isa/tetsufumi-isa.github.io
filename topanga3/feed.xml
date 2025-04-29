@@ -6,8 +6,15 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 29 Apr 2025 13:03:22 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 15:05:49 -0000</lastBuildDate>
     
+    <item>
+      <title>勝ちたがりTV  607 Act7終了直前！追い込みランクマ！</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29：勝ちたがりTV  607 Act7終了直前！追い込みランクマ！.mp3" length="120230925" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29：勝ちたがりTV  607 Act7終了直前！追い込みランクマ！.mp3</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:23:09</itunes:duration>
+    </item>
     <item>
       <title>TOPANGA TV  667 ソートくりえいと やってみる</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-23：TOPANGA TV  667 ソートくりえいと やってみる.mp3" length="91719669" type="audio/mpeg" />
