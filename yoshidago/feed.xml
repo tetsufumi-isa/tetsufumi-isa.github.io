@@ -6,8 +6,15 @@
     <description>吉田豪 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 29 Apr 2025 15:05:24 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 20:05:20 -0000</lastBuildDate>
     
+    <item>
+      <title>【フル】世界の大物アーティストの名前が出まくり!!ゲスト土屋昌巳!!まさかの「豪</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/yoshidago/04-29：【フル】世界の大物アーティストの名前が出まくり!!ゲスト土屋昌巳!!まさかの「豪.mp3" length="71365893" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/yoshidago/04-29：【フル】世界の大物アーティストの名前が出まくり!!ゲスト土屋昌巳!!まさかの「豪.mp3</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:02:01</itunes:duration>
+    </item>
     <item>
       <title>【フル】男の勲章!!ゲスト嶋大輔!!今まで語られてきた不良伝説の裏側が明らかに!</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/yoshidago/04-22：【フル】男の勲章!!ゲスト嶋大輔!!今まで語られてきた不良伝説の裏側が明らかに!.mp3" length="68325237" type="audio/mpeg" />
