@@ -6,12 +6,19 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 02 May 2025 07:01:03 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 11:01:50 -0000</lastBuildDate>
     
     <item>
       <title>“トランプ関税”２回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-02：“トランプ関税”２回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽.mp3" length="29222229" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-02：“トランプ関税”２回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽.mp3</guid>
+      <pubDate>Fri, 02 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:50:29</itunes:duration>
+    </item>
+    <item>
+      <title>“トランプ関税”2回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-02：“トランプ関税”2回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽.mp3" length="29222229" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-02：“トランプ関税”2回目協議…赤沢氏「ウィンウィンの関係に」互いの“ウィン”とは▽.mp3</guid>
       <pubDate>Fri, 02 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:50:29</itunes:duration>
     </item>
