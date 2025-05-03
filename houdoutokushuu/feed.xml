@@ -6,8 +6,15 @@
     <description>報道特集 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 03 May 2025 11:00:43 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 13:01:15 -0000</lastBuildDate>
     
+    <item>
+      <title>「狂ってると思います」アメリカ国民の生活に浸透する中国製品　トランプ関税の影響は</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-03：「狂ってると思います」アメリカ国民の生活に浸透する中国製品　トランプ関税の影響は.mp3" length="12928485" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-03：「狂ってると思います」アメリカ国民の生活に浸透する中国製品　トランプ関税の影響は.mp3</guid>
+      <pubDate>Sat, 03 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:21:49</itunes:duration>
+    </item>
     <item>
       <title>備蓄米放出後も…コメ高騰、農家が抱く危機感「農家数が減少、農村守る政策を」 卸売</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/04-26：備蓄米放出後も…コメ高騰、農家が抱く危機感「農家数が減少、農村守る政策を」 卸売.mp3" length="14622501" type="audio/mpeg" />
