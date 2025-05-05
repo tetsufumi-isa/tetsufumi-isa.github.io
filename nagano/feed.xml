@@ -6,7 +6,14 @@
     <description>永野ch の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 05 May 2025 07:03:31 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 11:04:15 -0000</lastBuildDate>
     
+    <item>
+      <title>【ゲーム音楽】パール・ジャム、ニルヴァーナ…グランジを溺愛する制作者が作ったゲー</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/nagano/05-05：【ゲーム音楽】パール・ジャム、ニルヴァーナ…グランジを溺愛する制作者が作ったゲー.mp3" length="19663389" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/nagano/05-05：【ゲーム音楽】パール・ジャム、ニルヴァーナ…グランジを溺愛する制作者が作ったゲー.mp3</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:20:49</itunes:duration>
+    </item>
   </channel>
 </rss>
