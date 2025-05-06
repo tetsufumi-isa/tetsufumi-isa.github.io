@@ -6,8 +6,15 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 06 May 2025 13:03:20 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 15:05:09 -0000</lastBuildDate>
     
+    <item>
+      <title>勝ちたがりTV  608 EVOJ前！＆もけ通常回ラスト！</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-06：勝ちたがりTV  608 EVOJ前！＆もけ通常回ラスト！.mp3" length="97453941" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-06：勝ちたがりTV  608 EVOJ前！＆もけ通常回ラスト！.mp3</guid>
+      <pubDate>Tue, 06 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:17</itunes:duration>
+    </item>
     <item>
       <title>TOPANGA TV  668 『2Game』のみなさんが遊びに来ました</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-30：TOPANGA TV  668 『2Game』のみなさんが遊びに来ました.mp3" length="96362373" type="audio/mpeg" />
