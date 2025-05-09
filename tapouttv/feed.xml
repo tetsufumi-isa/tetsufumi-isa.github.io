@@ -6,7 +6,7 @@
     <description>タップアウトTV の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 09 May 2025 13:02:01 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 15:02:01 -0000</lastBuildDate>
     
     <item>
       <title>【RIZIN男祭り】全試合結果まとめ！朝倉未来vs鈴木千裕、クレベルvsシェイド</title>
@@ -21,13 +21,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tapouttv/04-30：【朝倉未来】「平本蓮の解説は嫌」【平本蓮】一般人に鬼ギレされた話【青木真也】RI.mp3</guid>
       <pubDate>Wed, 30 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:14:08</itunes:duration>
-    </item>
-    <item>
-      <title>【朝倉未来】平本蓮の発言を痛烈批判【平本蓮】RIZINを盛り下げてると批判殺到【</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tapouttv/04-20：【朝倉未来】平本蓮の発言を痛烈批判【平本蓮】RIZINを盛り下げてると批判殺到【.mp3" length="10314165" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tapouttv/04-20：【朝倉未来】平本蓮の発言を痛烈批判【平本蓮】RIZINを盛り下げてると批判殺到【.mp3</guid>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:13:58</itunes:duration>
     </item>
   </channel>
 </rss>
