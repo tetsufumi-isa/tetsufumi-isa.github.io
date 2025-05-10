@@ -6,7 +6,7 @@
     <description>ちびペンギン の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 10 May 2025 13:02:57 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 15:02:45 -0000</lastBuildDate>
     
     <item>
       <title>【速報】遂にMCTYSONがモニホをディスった件、リッキーがムートンにキレていた</title>
@@ -56,13 +56,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-26：Awich過去の「Nワード」のせいで海外進出は厳しい炎上したい理由と海外での反応.mp3</guid>
       <pubDate>Sat, 26 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:09:38</itunes:duration>
-    </item>
-    <item>
-      <title>【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-21：【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ.mp3" length="8682813" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/04-21：【速報】Kohjiyaの客層問題やTOKYO世界がよすぎる件、ムートンがいっちゃ.mp3</guid>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:09:39</itunes:duration>
     </item>
   </channel>
 </rss>
