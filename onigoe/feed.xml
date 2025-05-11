@@ -6,7 +6,7 @@
     <description>鬼越トマホーク の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 11 May 2025 13:01:58 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 15:01:51 -0000</lastBuildDate>
     
     <item>
       <title>【NOT案件】凄すぎ!!ガストのメニュー開発チームがガチでオススメするメニューが</title>
@@ -35,13 +35,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-26：【問題作】3時のヒロインゆめっちが選ぶムラっとする芸人ランキング【鬼越トマホーク.mp3</guid>
       <pubDate>Sat, 26 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:58:32</itunes:duration>
-    </item>
-    <item>
-      <title>きしたかの岸に半生を聞いたら今では考えられないほどヤンチャな少年時代を過ごしてい</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-22：きしたかの岸に半生を聞いたら今では考えられないほどヤンチャな少年時代を過ごしてい.mp3" length="45924861" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-22：きしたかの岸に半生を聞いたら今では考えられないほどヤンチャな少年時代を過ごしてい.mp3</guid>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:22:53</itunes:duration>
     </item>
   </channel>
 </rss>
