@@ -6,7 +6,7 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 12 May 2025 03:00:56 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 07:01:50 -0000</lastBuildDate>
     
     <item>
       <title>中露首脳会談「協力強化で一致」アピールも垣間見える思惑▽習近平氏「いじめ直面」ト</title>
@@ -19,6 +19,13 @@
       <title>ロシア戦勝８０年記念式典＆大規模軍事パレード詳報▽２０か国以上の首脳出席…プーチ</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-10：ロシア戦勝８０年記念式典＆大規模軍事パレード詳報▽２０か国以上の首脳出席…プーチ.mp3" length="32173221" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-10：ロシア戦勝８０年記念式典＆大規模軍事パレード詳報▽２０か国以上の首脳出席…プーチ.mp3</guid>
+      <pubDate>Sat, 10 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:53:18</itunes:duration>
+    </item>
+    <item>
+      <title>ロシア戦勝80年記念式典＆大規模軍事パレード詳報▽20か国以上の首脳出席…プーチ</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-10：ロシア戦勝80年記念式典＆大規模軍事パレード詳報▽20か国以上の首脳出席…プーチ.mp3" length="32198541" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-10：ロシア戦勝80年記念式典＆大規模軍事パレード詳報▽20か国以上の首脳出席…プーチ.mp3</guid>
       <pubDate>Sat, 10 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:53:18</itunes:duration>
     </item>
