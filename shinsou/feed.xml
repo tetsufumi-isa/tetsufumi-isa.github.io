@@ -6,7 +6,7 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 13 May 2025 13:01:07 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 15:01:04 -0000</lastBuildDate>
     
     <item>
       <title>米中関税協議で共同声明「１１５％引き下げ」合意の背景▽協議出席者の顔ぶれから見え</title>
@@ -41,7 +41,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-09：露・戦勝記念日式典に多数の首脳が参加▽露中首脳会談も…金正恩氏欠席のワケ▽プーチ.mp3" length="4644897" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-09：露・戦勝記念日式典に多数の首脳が参加▽露中首脳会談も…金正恩氏欠席のワケ▽プーチ.mp3</guid>
       <pubDate>Fri, 09 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:50:26</itunes:duration>
+      <itunes:duration>00:07:55</itunes:duration>
     </item>
     <item>
       <title>習近平国家主席訪露に先立ち露メディアに寄稿文。「台湾」にも言及の狙いとは▽トラン</title>
@@ -126,13 +126,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-25：トランプ政権“ドル高是正”要求は？▽日米財務相会談で為替問題協議へ…基軸通貨“ド.mp3</guid>
       <pubDate>Fri, 25 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:37:59</itunes:duration>
-    </item>
-    <item>
-      <title>【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-24：【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」.mp3" length="30507981" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/04-24：【深層NEWS】トランプ政権“ロシア占領”認める和平案…東部・南部4州「非公式」.mp3</guid>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:50:27</itunes:duration>
     </item>
   </channel>
 </rss>
