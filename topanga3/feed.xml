@@ -6,14 +6,21 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 14 May 2025 13:06:52 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 15:06:08 -0000</lastBuildDate>
     
+    <item>
+      <title>第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-14：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3" length="142995813" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-14：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:49:28</itunes:duration>
+    </item>
     <item>
       <title>第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-13：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3" length="140834645" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-13：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:49:03</itunes:duration>
+      <itunes:duration>02:49:28</itunes:duration>
     </item>
     <item>
       <title>TOPANGA TV  669 Noah＆Garnetが遊びにきました</title>

@@ -6,7 +6,7 @@
     <description>報道1930 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 14 May 2025 13:01:02 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 15:00:59 -0000</lastBuildDate>
     
     <item>
       <title>「地方創生」か消滅か…  ニッポンの現実は「幸せな縮小」【5月13日(火)  報</title>
@@ -84,13 +84,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-28：中国が狙う毛沢東の｢持久戦論｣やせ我慢の関税合戦 勝つのは…【4月28日(月) .mp3</guid>
       <pubDate>Mon, 28 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:04:00</itunes:duration>
-    </item>
-    <item>
-      <title>日米関税交渉の舞台裏　石破総理が描く決着のストーリーとは【4月25日(金) 報道</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-25：日米関税交渉の舞台裏　石破総理が描く決着のストーリーとは【4月25日(金) 報道.mp3" length="37212285" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-25：日米関税交渉の舞台裏　石破総理が描く決着のストーリーとは【4月25日(金) 報道.mp3</guid>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:03:32</itunes:duration>
     </item>
   </channel>
 </rss>
