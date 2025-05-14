@@ -6,8 +6,15 @@
     <description>鬼越トマホーク の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 14 May 2025 07:02:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 11:02:43 -0000</lastBuildDate>
     
+    <item>
+      <title>吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-14：吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】.mp3" length="21362877" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-14：吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】.mp3</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:38:19</itunes:duration>
+    </item>
     <item>
       <title>イジリー岡田さんに半生をお聞きしたら萩本欽一さんとの秘話や高速ベロ誕生秘話など最</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-12：イジリー岡田さんに半生をお聞きしたら萩本欽一さんとの秘話や高速ベロ誕生秘話など最.mp3" length="45881877" type="audio/mpeg" />
