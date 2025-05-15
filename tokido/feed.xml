@@ -6,7 +6,7 @@
     <description>ときどch の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 15 May 2025 13:04:08 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 15:04:03 -0000</lastBuildDate>
     
     <item>
       <title>Saturday morning ( ･´ｰ･｀)!</title>
@@ -14,13 +14,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/05-03：Saturday morning ( ･´ｰ･｀)!.mp3</guid>
       <pubDate>Sat, 03 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>2025426 Saturday morning ( ･´ｰ･｀)!</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/04-26：2025426 Saturday morning ( ･´ｰ･｀)!.mp3" length="71591637" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/04-26：2025426 Saturday morning ( ･´ｰ･｀)!.mp3</guid>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:33:48</itunes:duration>
     </item>
   </channel>
 </rss>

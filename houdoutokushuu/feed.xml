@@ -6,14 +6,14 @@
     <description>報道特集 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 15 May 2025 13:00:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 15:00:48 -0000</lastBuildDate>
     
     <item>
       <title>「塀を作るぐらいなら、ほかに居場所を作ってほしかった」“グリ下”塀設置　大阪・関</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-11：「塀を作るぐらいなら、ほかに居場所を作ってほしかった」“グリ下”塀設置　大阪・関.mp3" length="13853469" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-11：「塀を作るぐらいなら、ほかに居場所を作ってほしかった」“グリ下”塀設置　大阪・関.mp3</guid>
       <pubDate>Sun, 11 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:23:48</itunes:duration>
+      <itunes:duration>00:23:47</itunes:duration>
     </item>
     <item>
       <title>「選挙って儲かるんですよ」の裏側　ポスター代を水増し請求　“選挙ハック”の実態【</title>
@@ -35,13 +35,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-03：「狂ってると思います」アメリカ国民の生活に浸透する中国製品　トランプ関税の影響は.mp3</guid>
       <pubDate>Sat, 03 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:21:48</itunes:duration>
-    </item>
-    <item>
-      <title>備蓄米放出後も…コメ高騰、農家が抱く危機感「農家数が減少、農村守る政策を」 卸売</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/04-26：備蓄米放出後も…コメ高騰、農家が抱く危機感「農家数が減少、農村守る政策を」 卸売.mp3" length="14622501" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/04-26：備蓄米放出後も…コメ高騰、農家が抱く危機感「農家数が減少、農村守る政策を」 卸売.mp3</guid>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:23:03</itunes:duration>
     </item>
   </channel>
 </rss>

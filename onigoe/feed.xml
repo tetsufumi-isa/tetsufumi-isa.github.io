@@ -6,7 +6,7 @@
     <description>鬼越トマホーク の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 15 May 2025 13:02:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 15:02:02 -0000</lastBuildDate>
     
     <item>
       <title>吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】</title>
@@ -42,13 +42,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-29：【衝撃ガチ告白】3時のヒロインかなでが選ぶムラっとする男芸人ランキング【鬼越トマ.mp3</guid>
       <pubDate>Tue, 29 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:02:29</itunes:duration>
-    </item>
-    <item>
-      <title>【問題作】3時のヒロインゆめっちが選ぶムラっとする芸人ランキング【鬼越トマホーク</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-26：【問題作】3時のヒロインゆめっちが選ぶムラっとする芸人ランキング【鬼越トマホーク.mp3" length="30271125" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-26：【問題作】3時のヒロインゆめっちが選ぶムラっとする芸人ランキング【鬼越トマホーク.mp3</guid>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:58:32</itunes:duration>
     </item>
   </channel>
 </rss>
