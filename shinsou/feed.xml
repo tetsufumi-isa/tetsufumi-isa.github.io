@@ -6,8 +6,15 @@
     <description>深層ニュース の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 15 May 2025 20:01:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 03:01:52 -0000</lastBuildDate>
     
+    <item>
+      <title>【深層NEWS】露・ウクライナ３年ぶり直接交渉へ…プーチン氏は欠席▽トランプ氏中</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-16：【深層NEWS】露・ウクライナ３年ぶり直接交渉へ…プーチン氏は欠席▽トランプ氏中.mp3" length="31324077" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-16：【深層NEWS】露・ウクライナ３年ぶり直接交渉へ…プーチン氏は欠席▽トランプ氏中.mp3</guid>
+      <pubDate>Fri, 16 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:50:27</itunes:duration>
+    </item>
     <item>
       <title>ゼレンスキー氏「トルコで待つ」首脳会談呼びかけにプーチン氏姿は？中東訪問中のトラ</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/shinsou/05-15：ゼレンスキー氏「トルコで待つ」首脳会談呼びかけにプーチン氏姿は？中東訪問中のトラ.mp3" length="30533637" type="audio/mpeg" />
