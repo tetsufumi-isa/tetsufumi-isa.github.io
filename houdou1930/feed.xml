@@ -6,7 +6,7 @@
     <description>報道1930 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 17 May 2025 13:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 15:01:01 -0000</lastBuildDate>
     
     <item>
       <title>「ムハンマド皇太子を好きすぎる」　米・中東外交の裏で孤立するイスラエル【5月16</title>
@@ -27,7 +27,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/05-13：「地方創生」か消滅か…  ニッポンの現実は「幸せな縮小」【5月13日(火)  報.mp3" length="37228509" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/05-13：「地方創生」か消滅か…  ニッポンの現実は「幸せな縮小」【5月13日(火)  報.mp3</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:02:13</itunes:duration>
+      <itunes:duration>01:02:12</itunes:duration>
     </item>
     <item>
       <title>米中電撃合意 関税115％引き下げ／「テクノ封建制」巨大テックが支配する世界【5</title>
@@ -91,13 +91,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-30：生産は足りているのか　コメ価格下がらない本当の理由は【4月30日(水)  報道1.mp3</guid>
       <pubDate>Wed, 30 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:03:51</itunes:duration>
-    </item>
-    <item>
-      <title>中国が狙う毛沢東の｢持久戦論｣やせ我慢の関税合戦 勝つのは…【4月28日(月)</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-28：中国が狙う毛沢東の｢持久戦論｣やせ我慢の関税合戦 勝つのは…【4月28日(月) .mp3" length="37690941" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-28：中国が狙う毛沢東の｢持久戦論｣やせ我慢の関税合戦 勝つのは…【4月28日(月) .mp3</guid>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:04:00</itunes:duration>
     </item>
   </channel>
 </rss>
