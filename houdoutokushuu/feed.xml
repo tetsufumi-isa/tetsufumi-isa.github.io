@@ -6,8 +6,15 @@
     <description>報道特集 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 17 May 2025 11:00:46 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 12:01:16 -0000</lastBuildDate>
     
+    <item>
+      <title>“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-17：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3" length="13929885" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-17：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3</guid>
+      <pubDate>Sat, 17 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:22:28</itunes:duration>
+    </item>
     <item>
       <title>「塀を作るぐらいなら、ほかに居場所を作ってほしかった」“グリ下”塀設置　大阪・関</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-11：「塀を作るぐらいなら、ほかに居場所を作ってほしかった」“グリ下”塀設置　大阪・関.mp3" length="13853469" type="audio/mpeg" />
