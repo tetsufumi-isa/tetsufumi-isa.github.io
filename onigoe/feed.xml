@@ -6,7 +6,7 @@
     <description>鬼越トマホーク の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 18 May 2025 13:02:21 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 15:02:02 -0000</lastBuildDate>
     
     <item>
       <title>同期のニューヨーク嶋佐に半生を聞いたら知らなかった話や懐かしい話が沢山聞けて最高</title>
@@ -20,7 +20,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-14：吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】.mp3" length="21362877" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-14：吉本芸人が書いた書籍ベストセラーランキング【鬼越トマホーク】.mp3</guid>
       <pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:38:19</itunes:duration>
+      <itunes:duration>00:38:18</itunes:duration>
     </item>
     <item>
       <title>イジリー岡田さんに半生をお聞きしたら萩本欽一さんとの秘話や高速ベロ誕生秘話など最</title>
@@ -42,13 +42,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/05-03：【リンダカラー∞】たいこーの概念が変わる動画。たいこーのお笑い。たいこーと向き合.mp3</guid>
       <pubDate>Sat, 03 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:08:32</itunes:duration>
-    </item>
-    <item>
-      <title>【衝撃ガチ告白】3時のヒロインかなでが選ぶムラっとする男芸人ランキング【鬼越トマ</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-29：【衝撃ガチ告白】3時のヒロインかなでが選ぶムラっとする男芸人ランキング【鬼越トマ.mp3" length="33549405" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/04-29：【衝撃ガチ告白】3時のヒロインかなでが選ぶムラっとする男芸人ランキング【鬼越トマ.mp3</guid>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:02:29</itunes:duration>
     </item>
   </channel>
 </rss>

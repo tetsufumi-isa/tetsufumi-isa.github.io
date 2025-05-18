@@ -6,7 +6,7 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 18 May 2025 13:03:29 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 15:03:09 -0000</lastBuildDate>
     
     <item>
       <title>第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY2</title>
@@ -20,7 +20,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-14：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3" length="142995813" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-14：第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1.mp3</guid>
       <pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:49:28</itunes:duration>
+      <itunes:duration>02:49:27</itunes:duration>
     </item>
     <item>
       <title>第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY1</title>
@@ -49,13 +49,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-30：TOPANGA TV  668 『2Game』のみなさんが遊びに来ました.mp3</guid>
       <pubDate>Wed, 30 Apr 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:02:23</itunes:duration>
-    </item>
-    <item>
-      <title>勝ちたがりTV  607 Act7終了直前！追い込みランクマ！</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29：勝ちたがりTV  607 Act7終了直前！追い込みランクマ！.mp3" length="120230925" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29：勝ちたがりTV  607 Act7終了直前！追い込みランクマ！.mp3</guid>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:23:09</itunes:duration>
     </item>
   </channel>
 </rss>
