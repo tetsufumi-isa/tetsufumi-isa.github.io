@@ -6,7 +6,7 @@
     <description>報道1930 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 19 May 2025 13:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 15:01:08 -0000</lastBuildDate>
     
     <item>
       <title>「ムハンマド皇太子を好きすぎる」　米・中東外交の裏で孤立するイスラエル【5月16</title>
@@ -20,7 +20,7 @@
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/05-15：米中貿易戦争 閣僚級が直接協議へ／自由貿易体制で最も得をしてるのは誰【5月7日(.mp3" length="36773661" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/05-15：米中貿易戦争 閣僚級が直接協議へ／自由貿易体制で最も得をしてるのは誰【5月7日(.mp3</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:02:25</itunes:duration>
+      <itunes:duration>01:02:24</itunes:duration>
     </item>
     <item>
       <title>「地方創生」か消滅か…  ニッポンの現実は「幸せな縮小」【5月13日(火)  報</title>
@@ -84,13 +84,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/05-01：大統領就任から100日　トランプ氏の強権政治 米国の民主主義はどこへ…【4月29.mp3</guid>
       <pubDate>Thu, 01 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:02:01</itunes:duration>
-    </item>
-    <item>
-      <title>生産は足りているのか　コメ価格下がらない本当の理由は【4月30日(水)  報道1</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-30：生産は足りているのか　コメ価格下がらない本当の理由は【4月30日(水)  報道1.mp3" length="38217252" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdou1930/04-30：生産は足りているのか　コメ価格下がらない本当の理由は【4月30日(水)  報道1.mp3</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:03:51</itunes:duration>
     </item>
   </channel>
 </rss>

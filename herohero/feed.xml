@@ -6,7 +6,7 @@
     <description>新宿ヘロヘロ団 の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 19 May 2025 13:05:49 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 15:06:00 -0000</lastBuildDate>
     
     <item>
       <title>【本気6品】パン初心者上田に教えたい！「最強のパンのお供選手権」</title>
@@ -16,11 +16,18 @@
       <itunes:duration>00:27:27</itunes:duration>
     </item>
     <item>
+      <title>【本気6品】トースト初心者上田に教えたい！「最強のパンのお供選手権」</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/herohero/05-19：【本気6品】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3" length="16347861" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/herohero/05-19：【本気6品】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:27:28</itunes:duration>
+    </item>
+    <item>
       <title>【再アップ】トースト初心者上田に教えたい！「最強のパンのお供選手権」</title>
       <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/herohero/05-19：【再アップ】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3" length="16347861" type="audio/mpeg" />
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/herohero/05-19：【再アップ】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3</guid>
       <pubDate>Mon, 19 May 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:duration>00:27:27</itunes:duration>
     </item>
     <item>
       <title>【感謝】福留光帆とガチ飲み。芸能界に入るキッカケ・AKB48時代・ニートだった頃</title>

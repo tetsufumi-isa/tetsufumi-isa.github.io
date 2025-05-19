@@ -6,7 +6,7 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 19 May 2025 13:03:32 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 15:03:22 -0000</lastBuildDate>
     
     <item>
       <title>第6期TOPANGA CHAMPIONSHIP【オンラインオープン予選 DAY2</title>
@@ -42,13 +42,6 @@
       <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-06：勝ちたがりTV  608 EVOJ前！＆もけ通常回ラスト！.mp3</guid>
       <pubDate>Tue, 06 May 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:17</itunes:duration>
-    </item>
-    <item>
-      <title>TOPANGA TV  668 『2Game』のみなさんが遊びに来ました</title>
-      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-30：TOPANGA TV  668 『2Game』のみなさんが遊びに来ました.mp3" length="96362373" type="audio/mpeg" />
-      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-30：TOPANGA TV  668 『2Game』のみなさんが遊びに来ました.mp3</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:02:23</itunes:duration>
     </item>
   </channel>
 </rss>
