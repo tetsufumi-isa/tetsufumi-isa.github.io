@@ -1,19 +1,8 @@
-# 音声ファイル
-*.mp3
-
-# 仮想環境
-projects/podcast-converter/podcast_env/
-
-# Python関連
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# ログファイル
-*.log
-
 # OS関連
 .DS_Store
 Thumbs.db
+
+# 一般的な一時ファイル
+*.bak
+*.tmp
+*.swp

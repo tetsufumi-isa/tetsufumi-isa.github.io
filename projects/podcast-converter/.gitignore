@@ -1,0 +1,15 @@
+# 音声ファイル
+*.mp3
+
+# 仮想環境
+podcast_env/
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ログファイル
+*.log
