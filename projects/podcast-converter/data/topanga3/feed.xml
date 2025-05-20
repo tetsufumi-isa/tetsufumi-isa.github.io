@@ -6,7 +6,14 @@
     <description>トパンガ の音声Podcast</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 20 May 2025 10:55:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 14:51:57 -0000</lastBuildDate>
     
+    <item>
+      <title>勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3" length="95033690" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:23:00</itunes:duration>
+    </item>
   </channel>
 </rss>

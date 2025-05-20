@@ -408,3 +408,313 @@ fatal: Exiting because of an unresolved conflict.
 Tue May 20 19:57:56 JST 2025: 正常に完了しました
 Tue May 20 19:57:56 JST 2025: ログクリーンアップ完了。100日以上前のログファイルを削除しました。
 ===== Tue May 20 19:57:56 JST 2025: ポッドキャスト更新終了 =====
+===== Tue May 20 23:34:47 JST 2025: ポッドキャスト更新開始 =====
+2025-05-20 23:34:47,661 - INFO - 🚀 YouTube→ポッドキャスト変換 開始
+2025-05-20 23:34:47,661 - INFO - 🚀 YouTube→ポッドキャスト変換 開始
+2025-05-20 23:34:47,737 - INFO - 🎙️ 番組処理開始: houdou1930 (報道1930)
+2025-05-20 23:34:47,737 - INFO - 🎙️ 番組処理開始: houdou1930 (報道1930)
+2025-05-20 23:34:47,738 - INFO - 🎙️ 番組処理開始: houdoutokushuu (報道特集)
+2025-05-20 23:34:47,738 - INFO - 🎙️ 番組処理開始: houdoutokushuu (報道特集)
+2025-05-20 23:34:47,739 - INFO - 🎙️ 番組処理開始: shinsou (深層ニュース)
+2025-05-20 23:34:47,739 - INFO - 🎙️ 番組処理開始: shinsou (深層ニュース)
+2025-05-20 23:34:49,455 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:49,455 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:49,469 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:49,469 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:49,855 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:49,855 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:34:52,499 - ERROR - ⚠️ yt-dlp実行エラー: 📅 プレミア公開待ち
+2025-05-20 23:34:52,499 - ERROR - ⚠️ yt-dlp実行エラー: 📅 プレミア公開待ち
+2025-05-20 23:34:54,938 - INFO - ⏭️ スキップ（既存）: 05-20：約3年ぶり直接交渉も即時停戦めぐり物別れ…ロシア“どう喝”交渉の狙い▽「この仕事.mp3
+2025-05-20 23:34:54,938 - INFO - ⏭️ スキップ（既存）: 05-20：約3年ぶり直接交渉も即時停戦めぐり物別れ…ロシア“どう喝”交渉の狙い▽「この仕事.mp3
+2025-05-20 23:34:54,974 - INFO - ⏭️ スキップ（既存）: 05-20：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3
+2025-05-20 23:34:54,974 - INFO - ⏭️ スキップ（既存）: 05-20：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3
+2025-05-20 23:34:58,119 - INFO - ⏭️ スキップ（既存）: 05-19：間もなく米ロ電話会談…合意か決裂か　NATOへの領空侵犯 ロシアの本当の狙いは【.mp3
+2025-05-20 23:34:58,119 - INFO - ⏭️ スキップ（既存）: 05-19：間もなく米ロ電話会談…合意か決裂か　NATOへの領空侵犯 ロシアの本当の狙いは【.mp3
+2025-05-20 23:34:59,274 - INFO - ⏭️ スキップ（既存）: 05-16：【深層NEWS】露・ウクライナ３年ぶり直接交渉へ…プーチン氏は欠席▽トランプ氏中.mp3
+2025-05-20 23:34:59,274 - INFO - ⏭️ スキップ（既存）: 05-16：【深層NEWS】露・ウクライナ３年ぶり直接交渉へ…プーチン氏は欠席▽トランプ氏中.mp3
+2025-05-20 23:35:02,899 - INFO - ⏭️ スキップ（既存）: 05-16：「ムハンマド皇太子を好きすぎる」　米・中東外交の裏で孤立するイスラエル【5月16.mp3
+2025-05-20 23:35:02,899 - INFO - ⏭️ スキップ（既存）: 05-16：「ムハンマド皇太子を好きすぎる」　米・中東外交の裏で孤立するイスラエル【5月16.mp3
+2025-05-20 23:35:05,652 - ERROR - ⚠️ yt-dlp実行エラー: ❌ 動画が削除されています
+2025-05-20 23:35:05,652 - ERROR - ⚠️ yt-dlp実行エラー: ❌ 動画が削除されています
+2025-05-20 23:35:07,196 - ERROR - ⚠️ yt-dlp実行エラー: ❌ 動画が削除されています
+2025-05-20 23:35:07,196 - ERROR - ⚠️ yt-dlp実行エラー: ❌ 動画が削除されています
+2025-05-20 23:35:09,010 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:09,010 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:13,480 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:13,480 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:19,840 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:19,840 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:30,604 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:30,604 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:36,881 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:36,881 - ERROR - ⚠️ yt-dlp実行エラー: 🔒 非公開動画です
+2025-05-20 23:35:41,250 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:35:41,250 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:35:41,250 - INFO - 🧹 古いファイル削除: houdoutokushuu
+2025-05-20 23:35:41,250 - INFO - 🧹 古いファイル削除: houdoutokushuu
+2025-05-20 23:35:41,880 - INFO - 📄 feed.xml 生成: houdoutokushuu
+2025-05-20 23:35:41,880 - INFO - 📄 feed.xml 生成: houdoutokushuu
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:35:41,882 - INFO - ✅ RSS生成完了: houdoutokushuu
+2025-05-20 23:35:41,882 - INFO - ✅ RSS生成完了: houdoutokushuu
+2025-05-20 23:35:41,883 - INFO - ✅ 番組処理完了: houdoutokushuu
+2025-05-20 23:35:41,883 - INFO - ✅ 番組処理完了: houdoutokushuu
+2025-05-20 23:35:41,883 - INFO - 🎙️ 番組処理開始: nichiyouscoop (日曜スクープ)
+2025-05-20 23:35:41,883 - INFO - 🎙️ 番組処理開始: nichiyouscoop (日曜スクープ)
+2025-05-20 23:35:43,604 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:35:43,604 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:35:48,979 - INFO - ⏭️ スキップ（既存）: 05-18：【AI半導体輸出に米警戒】中東経由移転に懸念“米中の技術覇権競争”激化の構図は【.mp3
+2025-05-20 23:35:48,979 - INFO - ⏭️ スキップ（既存）: 05-18：【AI半導体輸出に米警戒】中東経由移転に懸念“米中の技術覇権競争”激化の構図は【.mp3
+2025-05-20 23:35:53,442 - INFO - ⏭️ スキップ（既存）: 05-18：【ロシア・ウクライナ直接協議】3年ぶり再開“即時停戦なく交渉継続”和平の模索は【.mp3
+2025-05-20 23:35:53,442 - INFO - ⏭️ スキップ（既存）: 05-18：【ロシア・ウクライナ直接協議】3年ぶり再開“即時停戦なく交渉継続”和平の模索は【.mp3
+2025-05-20 23:35:55,251 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:35:55,251 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:35:55,251 - INFO - 🧹 古いファイル削除: houdou1930
+2025-05-20 23:35:55,251 - INFO - 🧹 古いファイル削除: houdou1930
+2025-05-20 23:35:55,345 - INFO - 📄 feed.xml 生成: houdou1930
+2025-05-20 23:35:55,345 - INFO - 📄 feed.xml 生成: houdou1930
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:35:55,346 - INFO - ✅ RSS生成完了: houdou1930
+2025-05-20 23:35:55,346 - INFO - ✅ RSS生成完了: houdou1930
+2025-05-20 23:35:55,347 - INFO - ✅ 番組処理完了: houdou1930
+2025-05-20 23:35:55,347 - INFO - ✅ 番組処理完了: houdou1930
+2025-05-20 23:35:55,348 - INFO - 🎙️ 番組処理開始: onigoe (鬼越トマホーク)
+2025-05-20 23:35:55,348 - INFO - 🎙️ 番組処理開始: onigoe (鬼越トマホーク)
+2025-05-20 23:35:56,423 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:35:56,423 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:36:00,983 - INFO - ⏭️ スキップ（既存）: 05-20：【超新星】SNSで話題の3人組しんやって一体何者？深掘りすればするほどヤバい姿が.mp3
+2025-05-20 23:36:00,983 - INFO - ⏭️ スキップ（既存）: 05-20：【超新星】SNSで話題の3人組しんやって一体何者？深掘りすればするほどヤバい姿が.mp3
+2025-05-20 23:36:03,043 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:36:03,043 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:36:03,044 - INFO - 🧹 古いファイル削除: shinsou
+2025-05-20 23:36:03,044 - INFO - 🧹 古いファイル削除: shinsou
+2025-05-20 23:36:03,147 - INFO - 📄 feed.xml 生成: shinsou
+2025-05-20 23:36:03,147 - INFO - 📄 feed.xml 生成: shinsou
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:36:03,148 - INFO - ✅ RSS生成完了: shinsou
+2025-05-20 23:36:03,148 - INFO - ✅ RSS生成完了: shinsou
+2025-05-20 23:36:03,148 - INFO - ✅ 番組処理完了: shinsou
+2025-05-20 23:36:03,148 - INFO - ✅ 番組処理完了: shinsou
+2025-05-20 23:36:03,148 - INFO - 🎙️ 番組処理開始: tapouttv (タップアウトTV)
+2025-05-20 23:36:03,148 - INFO - 🎙️ 番組処理開始: tapouttv (タップアウトTV)
+2025-05-20 23:36:04,197 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:36:04,197 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:36:05,064 - INFO - ⏭️ スキップ（既存）: 05-17：同期のニューヨーク嶋佐に半生を聞いたら知らなかった話や懐かしい話が沢山聞けて最高.mp3
+2025-05-20 23:36:05,064 - INFO - ⏭️ スキップ（既存）: 05-17：同期のニューヨーク嶋佐に半生を聞いたら知らなかった話や懐かしい話が沢山聞けて最高.mp3
+2025-05-20 23:36:49,822 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:36:49,822 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:36:49,822 - INFO - 🧹 古いファイル削除: nichiyouscoop
+2025-05-20 23:36:49,822 - INFO - 🧹 古いファイル削除: nichiyouscoop
+2025-05-20 23:36:49,902 - INFO - 📄 feed.xml 生成: nichiyouscoop
+2025-05-20 23:36:49,902 - INFO - 📄 feed.xml 生成: nichiyouscoop
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:36:49,903 - INFO - ✅ RSS生成完了: nichiyouscoop
+2025-05-20 23:36:49,903 - INFO - ✅ RSS生成完了: nichiyouscoop
+2025-05-20 23:36:49,903 - INFO - ✅ 番組処理完了: nichiyouscoop
+2025-05-20 23:36:49,903 - INFO - ✅ 番組処理完了: nichiyouscoop
+2025-05-20 23:36:49,903 - INFO - 🎙️ 番組処理開始: takonokenkai (タコの見解)
+2025-05-20 23:36:49,903 - INFO - 🎙️ 番組処理開始: takonokenkai (タコの見解)
+2025-05-20 23:36:51,089 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:36:51,089 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:36:56,406 - INFO - ⏭️ スキップ（既存）: 05-17：高田延彦と榊原信行の長きに渡る関係が破綻してしまった件がヤバい.mp3
+2025-05-20 23:36:56,406 - INFO - ⏭️ スキップ（既存）: 05-17：高田延彦と榊原信行の長きに渡る関係が破綻してしまった件がヤバい.mp3
+2025-05-20 23:37:01,130 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:01,130 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:01,130 - INFO - 🧹 古いファイル削除: onigoe
+2025-05-20 23:37:01,130 - INFO - 🧹 古いファイル削除: onigoe
+2025-05-20 23:37:01,286 - INFO - 📄 feed.xml 生成: onigoe
+2025-05-20 23:37:01,286 - INFO - 📄 feed.xml 生成: onigoe
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:37:01,286 - INFO - ✅ RSS生成完了: onigoe
+2025-05-20 23:37:01,286 - INFO - ✅ RSS生成完了: onigoe
+2025-05-20 23:37:01,287 - INFO - ✅ 番組処理完了: onigoe
+2025-05-20 23:37:01,287 - INFO - ✅ 番組処理完了: onigoe
+2025-05-20 23:37:01,287 - INFO - 🎙️ 番組処理開始: chibipen (ちびペンギン)
+2025-05-20 23:37:01,287 - INFO - 🎙️ 番組処理開始: chibipen (ちびペンギン)
+2025-05-20 23:37:02,384 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:37:02,384 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:37:07,438 - INFO - ⏭️ スキップ（既存）: 05-19：【速報】二人のビーフの仲介業務を委託された孫GONGやアンチに採点されるeyde.mp3
+2025-05-20 23:37:07,438 - INFO - ⏭️ スキップ（既存）: 05-19：【速報】二人のビーフの仲介業務を委託された孫GONGやアンチに採点されるeyde.mp3
+2025-05-20 23:37:09,455 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:09,455 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:09,455 - INFO - 🧹 古いファイル削除: tapouttv
+2025-05-20 23:37:09,455 - INFO - 🧹 古いファイル削除: tapouttv
+2025-05-20 23:37:09,555 - INFO - 📄 feed.xml 生成: tapouttv
+2025-05-20 23:37:09,555 - INFO - 📄 feed.xml 生成: tapouttv
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:37:09,556 - INFO - ✅ RSS生成完了: tapouttv
+2025-05-20 23:37:09,556 - INFO - ✅ RSS生成完了: tapouttv
+2025-05-20 23:37:09,557 - INFO - ✅ 番組処理完了: tapouttv
+2025-05-20 23:37:09,557 - INFO - ✅ 番組処理完了: tapouttv
+2025-05-20 23:37:09,557 - INFO - 🎙️ 番組処理開始: topanga3 (トパンガ)
+2025-05-20 23:37:09,557 - INFO - 🎙️ 番組処理開始: topanga3 (トパンガ)
+2025-05-20 23:37:10,695 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:37:10,695 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:37:12,139 - INFO - ⏭️ スキップ（既存）: 05-17：【速報】KEIJUの新アルバム「N.I.T.O.」全曲を解説！！サンプリング元や.mp3
+2025-05-20 23:37:12,139 - INFO - ⏭️ スキップ（既存）: 05-17：【速報】KEIJUの新アルバム「N.I.T.O.」全曲を解説！！サンプリング元や.mp3
+2025-05-20 23:37:12,841 - ERROR - ⚠️ yt-dlp実行エラー: ⚠️ ERROR: [youtube] 8gW4ya6VhsQ: This live event will begin in 21 hours.
+
+2025-05-20 23:37:12,841 - ERROR - ⚠️ yt-dlp実行エラー: ⚠️ ERROR: [youtube] 8gW4ya6VhsQ: This live event will begin in 21 hours.
+
+2025-05-20 23:37:20,987 - INFO - ⬇️ ダウンロード: 05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3
+2025-05-20 23:37:20,987 - INFO - ⬇️ ダウンロード: 05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3
+2025-05-20 23:37:57,851 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:57,851 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:37:57,851 - INFO - 🧹 古いファイル削除: takonokenkai
+2025-05-20 23:37:57,851 - INFO - 🧹 古いファイル削除: takonokenkai
+2025-05-20 23:37:57,954 - INFO - 📄 feed.xml 生成: takonokenkai
+2025-05-20 23:37:57,954 - INFO - 📄 feed.xml 生成: takonokenkai
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:37:57,955 - INFO - ✅ RSS生成完了: takonokenkai
+2025-05-20 23:37:57,955 - INFO - ✅ RSS生成完了: takonokenkai
+2025-05-20 23:37:57,955 - INFO - 🎙️ 番組処理開始: nagano (永野ch)
+2025-05-20 23:37:57,955 - INFO - 🎙️ 番組処理開始: nagano (永野ch)
+2025-05-20 23:37:57,956 - INFO - ✅ 番組処理完了: takonokenkai
+2025-05-20 23:37:57,956 - INFO - ✅ 番組処理完了: takonokenkai
+2025-05-20 23:37:59,084 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:37:59,084 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:38:10,168 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:38:10,168 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:38:10,168 - INFO - 🧹 古いファイル削除: chibipen
+2025-05-20 23:38:10,168 - INFO - 🧹 古いファイル削除: chibipen
+2025-05-20 23:38:10,249 - INFO - 📄 feed.xml 生成: chibipen
+2025-05-20 23:38:10,249 - INFO - 📄 feed.xml 生成: chibipen
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:38:10,250 - INFO - ✅ RSS生成完了: chibipen
+2025-05-20 23:38:10,250 - INFO - ✅ RSS生成完了: chibipen
+2025-05-20 23:38:10,250 - INFO - 🎙️ 番組処理開始: tokido (ときどch)
+2025-05-20 23:38:10,250 - INFO - 🎙️ 番組処理開始: tokido (ときどch)
+2025-05-20 23:38:10,251 - INFO - ✅ 番組処理完了: chibipen
+2025-05-20 23:38:10,251 - INFO - ✅ 番組処理完了: chibipen
+2025-05-20 23:38:11,317 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:38:11,317 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:39:07,146 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:39:07,146 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:39:07,147 - INFO - 🧹 古いファイル削除: nagano
+2025-05-20 23:39:07,147 - INFO - 🧹 古いファイル削除: nagano
+2025-05-20 23:39:07,221 - INFO - 📄 feed.xml 生成: nagano
+2025-05-20 23:39:07,221 - INFO - 📄 feed.xml 生成: nagano
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:39:07,222 - INFO - ✅ RSS生成完了: nagano
+2025-05-20 23:39:07,222 - INFO - ✅ RSS生成完了: nagano
+2025-05-20 23:39:07,224 - INFO - 🎙️ 番組処理開始: yoshidago (吉田豪)
+2025-05-20 23:39:07,224 - INFO - 🎙️ 番組処理開始: yoshidago (吉田豪)
+2025-05-20 23:39:07,224 - INFO - ✅ 番組処理完了: nagano
+2025-05-20 23:39:07,224 - INFO - ✅ 番組処理完了: nagano
+2025-05-20 23:39:08,344 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:39:08,344 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:39:13,534 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:39:13,534 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:39:13,534 - INFO - 🧹 古いファイル削除: tokido
+2025-05-20 23:39:13,534 - INFO - 🧹 古いファイル削除: tokido
+2025-05-20 23:39:13,607 - INFO - 📄 feed.xml 生成: tokido
+2025-05-20 23:39:13,607 - INFO - 📄 feed.xml 生成: tokido
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:39:13,608 - INFO - ✅ RSS生成完了: tokido
+2025-05-20 23:39:13,608 - INFO - ✅ RSS生成完了: tokido
+2025-05-20 23:39:13,609 - INFO - 🎙️ 番組処理開始: herohero (新宿ヘロヘロ団)
+2025-05-20 23:39:13,609 - INFO - 🎙️ 番組処理開始: herohero (新宿ヘロヘロ団)
+2025-05-20 23:39:13,609 - INFO - ✅ 番組処理完了: tokido
+2025-05-20 23:39:13,609 - INFO - ✅ 番組処理完了: tokido
+2025-05-20 23:39:14,748 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:39:14,748 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:39:20,077 - INFO - ⏭️ スキップ（既存）: 05-19：【本気6品】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3
+2025-05-20 23:39:20,077 - INFO - ⏭️ スキップ（既存）: 05-19：【本気6品】トースト初心者上田に教えたい！「最強のパンのお供選手権」.mp3
+2025-05-20 23:40:13,010 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:40:13,010 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:40:13,010 - INFO - 🧹 古いファイル削除: yoshidago
+2025-05-20 23:40:13,010 - INFO - 🧹 古いファイル削除: yoshidago
+2025-05-20 23:40:13,141 - INFO - 📄 feed.xml 生成: yoshidago
+2025-05-20 23:40:13,141 - INFO - 📄 feed.xml 生成: yoshidago
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:40:13,142 - INFO - ✅ RSS生成完了: yoshidago
+2025-05-20 23:40:13,142 - INFO - ✅ RSS生成完了: yoshidago
+2025-05-20 23:40:13,142 - INFO - 🎙️ 番組処理開始: rap_ej (Rap_EJ)
+2025-05-20 23:40:13,142 - INFO - 🎙️ 番組処理開始: rap_ej (Rap_EJ)
+2025-05-20 23:40:13,142 - INFO - ✅ 番組処理完了: yoshidago
+2025-05-20 23:40:13,142 - INFO - ✅ 番組処理完了: yoshidago
+2025-05-20 23:40:14,479 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:40:14,479 - INFO - 🎞️ 対象動画数: 15
+2025-05-20 23:40:22,137 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:40:22,137 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:40:22,137 - INFO - 🧹 古いファイル削除: herohero
+2025-05-20 23:40:22,137 - INFO - 🧹 古いファイル削除: herohero
+2025-05-20 23:40:22,217 - INFO - 📄 feed.xml 生成: herohero
+2025-05-20 23:40:22,217 - INFO - 📄 feed.xml 生成: herohero
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:40:22,217 - INFO - ✅ RSS生成完了: herohero
+2025-05-20 23:40:22,217 - INFO - ✅ RSS生成完了: herohero
+2025-05-20 23:40:22,218 - INFO - ✅ 番組処理完了: herohero
+2025-05-20 23:40:22,218 - INFO - ✅ 番組処理完了: herohero
+2025-05-20 23:41:25,071 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:41:25,071 - INFO - ✅ ダウンロード完了（0 件）
+2025-05-20 23:41:25,071 - INFO - 🧹 古いファイル削除: rap_ej
+2025-05-20 23:41:25,071 - INFO - 🧹 古いファイル削除: rap_ej
+2025-05-20 23:41:25,154 - INFO - 📄 feed.xml 生成: rap_ej
+2025-05-20 23:41:25,154 - INFO - 📄 feed.xml 生成: rap_ej
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:41:25,154 - INFO - ✅ RSS生成完了: rap_ej
+2025-05-20 23:41:25,154 - INFO - ✅ RSS生成完了: rap_ej
+2025-05-20 23:41:25,155 - INFO - ✅ 番組処理完了: rap_ej
+2025-05-20 23:41:25,155 - INFO - ✅ 番組処理完了: rap_ej
+2025-05-20 23:50:34,854 - INFO - ☁️ アップロード: 05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3
+2025-05-20 23:50:34,854 - INFO - ☁️ アップロード: 05-20：勝ちたがりTV  609 もけ卒業＆EWC出場確定パーティー！.mp3
+2025-05-20 23:51:57,755 - INFO - ✅ ダウンロード完了（1 件）
+2025-05-20 23:51:57,755 - INFO - ✅ ダウンロード完了（1 件）
+2025-05-20 23:51:57,756 - INFO - 🧹 古いファイル削除: topanga3
+2025-05-20 23:51:57,756 - INFO - 🧹 古いファイル削除: topanga3
+2025-05-20 23:51:57,851 - INFO - 📄 feed.xml 生成: topanga3
+2025-05-20 23:51:57,851 - INFO - 📄 feed.xml 生成: topanga3
+/home/teisa/github/tetsufumi-isa.github.io/projects/podcast-converter/code/podcast_update.py:375: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <lastBuildDate>{email.utils.format_datetime(datetime.utcnow())}</lastBuildDate>
+2025-05-20 23:51:57,852 - INFO - ✅ RSS生成完了: topanga3
+2025-05-20 23:51:57,852 - INFO - ✅ RSS生成完了: topanga3
+2025-05-20 23:51:57,853 - INFO - ✅ 番組処理完了: topanga3
+2025-05-20 23:51:57,853 - INFO - ✅ 番組処理完了: topanga3
+2025-05-20 23:51:57,853 - INFO - 
+🚀 GitHubにpush中...
+2025-05-20 23:51:57,853 - INFO - 
+🚀 GitHubにpush中...
+2025-05-20 23:52:00,604 - ERROR - ⚠️ Gitエラー: git -C /home/teisa/github/tetsufumi-isa.github.io pull
+2025-05-20 23:52:00,604 - ERROR - ⚠️ Gitエラー: git -C /home/teisa/github/tetsufumi-isa.github.io pull
+2025-05-20 23:52:00,604 - ERROR - There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+
+2025-05-20 23:52:00,604 - ERROR - There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+
+2025-05-20 23:52:00,605 - INFO - 🎉 全処理完了！
+2025-05-20 23:52:00,605 - INFO - 🎉 全処理完了！
+Tue May 20 23:52:00 JST 2025: 正常に完了しました
+Tue May 20 23:52:00 JST 2025: ログクリーンアップ完了。100日以上前のログファイルを削除しました。
+===== Tue May 20 23:52:00 JST 2025: ポッドキャスト更新終了 =====

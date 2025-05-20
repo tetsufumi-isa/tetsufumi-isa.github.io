@@ -161,7 +161,11 @@ def process_program(args):
     r2_bucket = config['R2']['bucket']
     min_duration = int(config['Settings']['min_duration'])
     max_duration = int(config['Settings']['max_duration'])
-    expire_days = int(config['Settings']['expire_days'])
+    
+    # ローカルファイルとR2ファイルの保存期間を別々に取得
+    local_expire_days = int(config['Settings'].get('local_expire_days', '10'))
+    r2_expire_days = int(config['Settings'].get('r2_expire_days', '28'))
+    
     max_items = config['Settings'].get('max_items', '15')
     look_back_days = int(config['Settings'].get('look_back_days', '4'))
 
@@ -289,36 +293,59 @@ def process_program(args):
 
     logger.info(f"✅ ダウンロード完了（{downloaded} 件）")
 
-    # 古いファイル削除（ローカルとR2の両方）
+    # 古いファイル削除（ローカルとR2のパラメータを別々に適用）
     logger.info(f"🧹 古いファイル削除: {folder_name}")
 
     # R2の現在のファイル一覧を取得
     r2_files = list_r2_files(r2_client, f"{folder_name}/", r2_bucket)
     r2_filenames = [os.path.basename(path) for path in r2_files]
 
+    # 現在の日時
+    now = datetime.now()
+
+    # ローカルファイル処理
+    logger.info(f"🧹 ローカルファイル確認中（{local_expire_days}日以上経過したものを削除）")
     for filename in os.listdir(output_dir):
         if filename.endswith(".mp3") and "：" in filename:
             try:
                 mmdd = filename.split("：")[0]
-                file_date = datetime.strptime(mmdd, "%m-%d").replace(year=datetime.now().year)
-
-                # 日付が古い場合
-                if datetime.now() - file_date > timedelta(days=expire_days):
+                file_date = datetime.strptime(mmdd, "%m-%d").replace(year=now.year)
+                
+                # 年をまたいだ場合（例：現在1月で、ファイルが12月の場合）
+                if file_date > now and mmdd.startswith("12") and now.month < 2:
+                    file_date = file_date.replace(year=now.year - 1)
+                
+                # ローカルファイルの期限確認
+                if (now - file_date).days > local_expire_days:
                     # ローカルファイル削除
                     local_path = os.path.join(output_dir, filename)
                     if os.path.exists(local_path):
                         os.remove(local_path)
                         logger.info(f"🗑️ ローカル削除: {filename}")
-
-                    # R2ファイル削除
-                    if filename in r2_filenames:
-                        remote_path = f"{folder_name}/{filename}"
-                        delete_success = delete_from_r2(r2_client, remote_path, r2_bucket)
-                        if delete_success:
-                            logger.info(f"🗑️ R2削除: {remote_path}")
             except Exception as e:
-                logger.error(f"⚠️ ファイル削除エラー: {filename} - {e}")
-                continue
+                logger.error(f"⚠️ ローカルファイル削除エラー: {filename} - {e}")
+
+    # R2ファイル処理（別の基準で削除）
+    logger.info(f"🧹 R2ファイル確認中（{r2_expire_days}日以上経過したものを削除）")
+    for filename in r2_filenames:
+        if filename.endswith(".mp3") and "：" in filename:
+            try:
+                mmdd = filename.split("：")[0]
+                file_date = datetime.strptime(mmdd, "%m-%d").replace(year=now.year)
+                
+                # 年をまたいだ場合（例：現在1月で、ファイルが12月の場合）
+                if file_date > now and mmdd.startswith("12") and now.month < 2:
+                    file_date = file_date.replace(year=now.year - 1)
+                
+                # R2ファイルの期限確認
+                if (now - file_date).days > r2_expire_days:
+                    # R2ファイル削除
+                    remote_path = f"{folder_name}/{filename}"
+                    delete_success = delete_from_r2(r2_client, remote_path, r2_bucket)
+                    if delete_success:
+                        logger.info(f"🗑️ R2削除: {remote_path}")
+            except Exception as e:
+                logger.error(f"⚠️ R2ファイル削除エラー: {filename} - {e}")
 
     # RSS生成
     logger.info(f"📄 feed.xml 生成: {folder_name}")
@@ -378,9 +405,23 @@ def process_program(args):
 </rss>
 """
 
-    with open(os.path.join(output_dir, "feed.xml"), "w", encoding="utf-8") as f:
+    # RSSファイルを保存
+    rss_path = os.path.join(output_dir, "feed.xml")
+    with open(rss_path, "w", encoding="utf-8") as f:
         f.write(rss_feed)
     logger.info(f"✅ RSS生成完了: {folder_name}")
+
+    # RSSファイルをR2にアップロード
+    logger.info(f"☁️ RSSをR2にアップロード中: {folder_name}/feed.xml")
+    remote_feed_path = f"{folder_name}/feed.xml"
+    feed_upload_success = upload_to_r2(r2_client, rss_path, remote_feed_path, r2_bucket)
+    if feed_upload_success:
+        logger.info(f"✅ RSSのR2アップロード完了: {remote_feed_path}")
+        # RSSファイルのR2 URL（参考用に表示）
+        rss_url = f"{config['R2']['public_base_url']}/{remote_feed_path}"
+        logger.info(f"📡 RSS URL: {rss_url}")
+    else:
+        logger.error(f"❌ RSSのR2アップロード失敗: {remote_feed_path}")
 
     return folder_name
 
@@ -420,29 +461,6 @@ def main():
                         logger.info(f"✅ 番組処理完了: {folder_name}")
                 except Exception as e:
                     logger.error(f"⚠️ 番組処理中にエラーが発生: {e}")
-
-        # Git push（feed.xml のみ）
-        logger.info("\n🚀 GitHubにpush中...")
-        
-        ## リポジトリのルートディレクトリを取得
-        repo_dir = os.path.dirname(os.path.dirname(os.path.dirname(script_dir)))
-        
-        git_commands = [
-            ["git", "-C", repo_dir, "pull"],
-            ["git", "-C", repo_dir, "add", "projects/podcast-converter/data/*/feed.xml"],
-            ["git", "-C", repo_dir, "commit", "-m", "auto: update all feeds"],
-            ["git", "-C", repo_dir, "push"]
-        ]
-
-        for cmd in git_commands:
-            result = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8')
-            if result.returncode != 0:
-                logger.error(f"⚠️ Gitエラー: {' '.join(cmd)}")
-                logger.error(result.stderr)
-                break
-            else:
-                logger.info(f"✅ {' '.join(cmd)} 完了")
-
         logger.info("🎉 全処理完了！")
 
     except Exception as e:
@@ -450,6 +468,3 @@ def main():
         return 1
 
     return 0
-
-if __name__ == "__main__":
-    sys.exit(main())
