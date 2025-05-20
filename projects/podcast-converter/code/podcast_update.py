@@ -91,19 +91,57 @@ def translate_youtube_error(error_msg):
 # yt-dlpの同時実行数を制限するためのセマフォ
 yt_dlp_semaphore = threading.Semaphore(2)  # 最大2つのyt-dlpプロセスを同時実行
 
-# 設定ファイル読み込み
 def load_config():
-    # スクリプトファイルのディレクトリパスを取得
-    config_path = os.path.join(script_dir, 'config.ini')
-    
-    if os.path.exists(config_path):
-        config = configparser.ConfigParser()
-        config.read(config_path, encoding='utf-8')
-        return config
-    else:
-        # 設定ファイルがない場合はエラーメッセージを表示して終了
-        error_msg = f"エラー: 設定ファイル '{config_path}' が見つかりません。"
-        logger.error(error_msg)
+    try:
+        # スクリプトファイルのディレクトリパスを取得
+        print(f"スクリプトディレクトリ: {script_dir}")
+        config_path = os.path.join(script_dir, 'config.ini')
+        print(f"設定ファイルパス: {config_path}")
+        
+        # ファイルの存在確認
+        file_exists = os.path.exists(config_path)
+        print(f"設定ファイルは存在する: {file_exists}")
+        
+        if file_exists:
+            # ファイルが読み取り可能か確認
+            try:
+                with open(config_path, 'r', encoding='utf-8') as test_file:
+                    first_line = test_file.readline()
+                print(f"ファイル読み取りテスト成功: 最初の行 = {first_line}")
+            except Exception as read_error:
+                print(f"ファイル読み取りテスト失敗: {str(read_error)}")
+            
+            # 設定を読み込む
+            config = configparser.ConfigParser(inline_comment_prefixes=('#', ';'))
+            config.read(config_path, encoding='utf-8')
+            
+            # 正しく読み込めたか確認
+            if len(config.sections()) > 0:
+                print(f"設定セクション: {config.sections()}")
+            else:
+                print("警告: 設定ファイルからセクションを読み込めませんでした")
+            
+            return config
+        else:
+            # 設定ファイルがない場合
+            error_msg = f"エラー: 設定ファイル '{config_path}' が見つかりません。"
+            print(error_msg)  # 標準出力にも出力
+            logger.error(error_msg)
+            
+            # 現在のディレクトリの内容を表示
+            print(f"現在のディレクトリ内容: {os.listdir(script_dir)}")
+            
+            # 親ディレクトリも確認
+            parent_dir = os.path.dirname(script_dir)
+            print(f"親ディレクトリ: {parent_dir}")
+            print(f"親ディレクトリ内容: {os.listdir(parent_dir)}")
+            
+            sys.exit(1)
+    except Exception as e:
+        print(f"設定読み込み中に予期せぬエラー: {str(e)}")
+        print(f"エラータイプ: {type(e).__name__}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
 
 # R2クライアント初期化
@@ -427,10 +465,15 @@ def process_program(args):
 
 def main():
     try:
+        # 最初のログ出力前にプリントを追加
+        print("スクリプト実行開始: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        
         logger.info("🚀 YouTube→ポッドキャスト変換 開始")
 
         # 設定読み込み
+        print("設定ファイル読み込み開始...")
         config = load_config()
+        print("設定ファイル読み込み完了")
 
         # 設定から並列処理数を読み込み
         max_workers = int(config['Settings'].get('max_workers', '3'))
@@ -441,30 +484,59 @@ def main():
         yt_dlp_semaphore = threading.Semaphore(max_yt_dlp)
 
         # R2クライアント初期化
+        print("R2クライアント初期化開始...")
         r2_client = init_r2_client(config)
+        print("R2クライアント初期化完了")
 
         # 設定からチャンネルとプレイリスト情報を取得
         channels = dict(config['Channels'].items())
         playlists = dict(config['Playlists'].items())
+        print(f"処理対象チャンネル数: {len(channels)}")
+        print(f"処理対象プレイリスト数: {len(playlists)}")
 
         # 並列処理で各番組を処理
+        print(f"並列処理開始（最大ワーカー数: {max_workers}）...")
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = []
             for folder_name, playlist_url in playlists.items():
+                print(f"番組タスク追加: {folder_name}")
                 futures.append(executor.submit(process_program, (folder_name, playlist_url, config, r2_client)))
 
             # 完了を待機
+            print(f"全タスク投入完了、完了を待機中（タスク数: {len(futures)}）...")
             for future in concurrent.futures.as_completed(futures):
                 try:
                     folder_name = future.result()
                     if folder_name:
                         logger.info(f"✅ 番組処理完了: {folder_name}")
+                        print(f"番組処理完了: {folder_name}")
                 except Exception as e:
-                    logger.error(f"⚠️ 番組処理中にエラーが発生: {e}")
+                    error_msg = f"⚠️ 番組処理中にエラーが発生: {e}"
+                    logger.error(error_msg)
+                    print(error_msg)
+        
+        print("全ての並列処理が完了しました")
         logger.info("🎉 全処理完了！")
 
     except Exception as e:
-        logger.critical(f"❌ 致命的エラー: {e}", exc_info=True)
+        error_message = f"❌ 致命的エラー: {str(e)}"
+        print(error_message)  # 標準出力に出力
+        print(f"エラー詳細: {type(e).__name__}")
+        
+        # トレースバックも標準出力に出力
+        import traceback
+        print("トレースバック:")
+        traceback.print_exc()
+        
+        # ロガーにも記録
+        try:
+            logger.critical(error_message, exc_info=True)
+        except Exception as log_error:
+            print(f"ログ記録中にさらにエラー発生: {str(log_error)}")
+        
         return 1
 
     return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
