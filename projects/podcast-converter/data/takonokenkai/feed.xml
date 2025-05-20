@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>タコの見解</title>
+    <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/takonokenkai/</link>
+    <description>タコの見解 の音声Podcast</description>
+    <language>ja</language>
+    <itunes:category text="News"/>
+    <lastBuildDate>Tue, 20 May 2025 10:54:43 -0000</lastBuildDate>
+    
+    <item>
+      <title>高田延彦と榊原信行の長きに渡る関係が破綻してしまった件がヤバい</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/takonokenkai/05-17：高田延彦と榊原信行の長きに渡る関係が破綻してしまった件がヤバい.mp3" length="15297957" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/takonokenkai/05-17：高田延彦と榊原信行の長きに渡る関係が破綻してしまった件がヤバい.mp3</guid>
+      <pubDate>Sat, 17 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:16:45</itunes:duration>
+    </item>
+  </channel>
+</rss>

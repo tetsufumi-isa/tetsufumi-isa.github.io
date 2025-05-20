@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>報道特集</title>
+    <link>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/</link>
+    <description>報道特集 の音声Podcast</description>
+    <language>ja</language>
+    <itunes:category text="News"/>
+    <lastBuildDate>Tue, 20 May 2025 10:49:01 -0000</lastBuildDate>
+    
+    <item>
+      <title>“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」</title>
+      <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-20：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3" length="13922637" type="audio/mpeg" />
+      <guid>https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/houdoutokushuu/05-20：“任命拒否問題”の当事者が語った　文書が存在しないというのは「ありえないですね」.mp3</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:22:27</itunes:duration>
+    </item>
+  </channel>
+</rss>
