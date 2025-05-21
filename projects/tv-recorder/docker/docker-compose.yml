@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  mirakurun:
+    image: chinachu/mirakurun
+    container_name: mirakurun
+    restart: always
+    ports:
+      - "40772:40772"
+      - "9229:9229"
+    volumes:
+      - ./mirakurun/config:/app-config
+      - ./mirakurun/data:/app-data
+    environment:
+      TZ: Asia/Tokyo
+    devices:
+      - /dev/bus/usb:/dev/bus/usb
+      - /dev/dvb:/dev/dvb
+    privileged: true
+    
+  epgstation:
+    image: l3tnun/epgstation
+    container_name: epgstation
+    restart: always
+    ports:
+      - "8888:8888"
+      - "8889:8889"
+    volumes:
+      - ./epgstation/config:/app/config
+      - ./epgstation/data:/app/data
+      - ./epgstation/recorded:/app/recorded
+      - ./epgstation/thumbnail:/app/thumbnail
+    environment:
+      TZ: Asia/Tokyo
+    depends_on:
+      - mirakurun
