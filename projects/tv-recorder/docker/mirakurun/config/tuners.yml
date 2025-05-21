@@ -1,0 +1,5 @@
+- name: PX-Q1UD
+  types:
+    - GR
+  command: recpt1 --device /dev/dvb/adapter0/dvr0 <channel> - -
+  isDisabled: false
