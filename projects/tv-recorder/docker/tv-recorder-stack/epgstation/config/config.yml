@@ -1,0 +1,80 @@
+# EPGStation 設定ファイル
+
+# サーバー設定
+port: 8888
+mirakurunPath: http://mirakurun:40772
+
+# データベース設定
+dbType: mysql
+mysql:
+  host: mysql
+  port: 3306
+  user: epgstation
+  password: epgstation_pass
+  database: epgstation
+  charset: utf8mb4
+
+# 録画設定
+recorded:
+  - name: recorded
+    path: /app/recorded
+
+# 番組表設定
+epgUpdateIntervalTime: 10
+
+# サムネイル設定
+thumbnail: /app/thumbnail
+thumbnailSize: '480x270'
+thumbnailPosition: 5
+
+# ログ設定
+logLevel: 2
+accessLogLevel: 2
+
+# Web UI設定
+clientLogLevel: 2
+
+# エンコード設定（必要に応じて設定）
+encode:
+  - name: H.264
+    cmd: '%NODE% %ROOT%/config/enc.js'
+    suffix: .mp4
+    rate: 4.0
+
+# ストリーミング設定
+streamFilePath: /tmp/streaming
+
+# 予約重複チェック
+conflictPriority: 1
+
+# ドロップログ出力
+isEnabledDropCheck: true
+
+# 自動削除設定
+autoDeleteCheckIntervalTime: 60
+reservesUpdateIntervalTime: 10
+
+# ファイルサイズチェック
+recordedHistoryRetentionPeriodDays: 30
+
+# その他の設定
+maxEncode: 2
+concurrentEncodeNum: 1
+encodeProcessNum: 4
+
+# ライブ配信設定
+liveHLS: true
+liveMP4: true
+liveWebM: false
+
+# 配信品質設定
+streamingPriority: 0
+
+# UIカスタマイズ
+reserveNewAddtionTime: 1
+
+# バックアップ設定
+isHalfWidthDisplayed: true
+
+# 時刻表示形式
+displayTime: 'YYYY-MM-DD HH:mm:ss'

@@ -1,0 +1,100 @@
+version: '3.8'
+
+services:
+  # Mirakurunサービス（チューナー・B-CAS管理）
+  mirakurun:
+    image: chinachu/mirakurun:latest
+    container_name: mirakurun
+    restart: always
+    privileged: true
+    volumes:
+      - ./mirakurun/config:/app/config
+      - ./mirakurun/data:/app/data
+    devices:
+      # 4つのPX-Q1UDチューナーをコンテナに渡す
+      - /dev/dvb/adapter0:/dev/dvb/adapter0
+      - /dev/dvb/adapter1:/dev/dvb/adapter1
+      - /dev/dvb/adapter2:/dev/dvb/adapter2
+      - /dev/dvb/adapter3:/dev/dvb/adapter3
+      # B-CASカードリーダー用（USBデバイス全体を渡す）
+      - /dev/bus/usb:/dev/bus/usb
+    ports:
+      - "40772:40772"  # MirakurunのWeb UI・API用ポート
+    networks:
+      - tv_network
+    environment:
+      - TZ=Asia/Tokyo
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:40772/api/status"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # MariaDBサービス（EPGStationのデータベース）
+  mysql:
+    image: mariadb:10.11
+    container_name: tv_mysql
+    restart: always
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=tv_recorder_root_pass
+      - MYSQL_DATABASE=epgstation
+      - MYSQL_USER=epgstation
+      - MYSQL_PASSWORD=epgstation_pass
+      - TZ=Asia/Tokyo
+    networks:
+      - tv_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # EPGStationサービス（番組表・録画管理）
+  epgstation:
+    image: l3tnun/epgstation:latest
+    container_name: epgstation
+    restart: always
+    volumes:
+      - ./epgstation/config:/app/config
+      - ./epgstation/data:/app/data
+      - ./recorded:/app/recorded
+      - ./epgstation/data/thumbnail:/app/thumbnail
+      - ./epgstation/data/logs:/app/logs
+    ports:
+      - "8888:8888"   # EPGStation Web UI用ポート
+      - "8889:8889"   # EPGStation API用ポート（オプション）
+    depends_on:
+      mirakurun:
+        condition: service_healthy
+      mysql:
+        condition: service_healthy
+    networks:
+      - tv_network
+    environment:
+      - TZ=Asia/Tokyo
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8888"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s
+
+networks:
+  tv_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
+
+volumes:
+  # 明示的なボリューム定義（必要に応じて）
+  mirakurun_config:
+  mirakurun_data:
+  epgstation_config:
+  epgstation_data:
+  mysql_data:
+  recorded_data:

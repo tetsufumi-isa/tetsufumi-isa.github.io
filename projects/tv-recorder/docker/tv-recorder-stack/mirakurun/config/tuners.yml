@@ -1,0 +1,42 @@
+# Mirakurun チューナー設定ファイル
+# PX-Q1UD 4台の設定
+
+# 1台目のチューナー（地上波・BS）
+- name: PX-Q1UD-S1
+  types:
+    - GR    # 地上波
+    - BS    # BS
+  command: recpt1 --device /dev/dvb/adapter0 <channel> - -
+  dvbDevicePath: /dev/dvb/adapter0/dvr0
+  decoder: arib-b25-stream-test
+  isDisabled: false
+
+# 2台目のチューナー（地上波・BS）
+- name: PX-Q1UD-S2
+  types:
+    - GR    # 地上波
+    - BS    # BS
+  command: recpt1 --device /dev/dvb/adapter1 <channel> - -
+  dvbDevicePath: /dev/dvb/adapter1/dvr0
+  decoder: arib-b25-stream-test
+  isDisabled: false
+
+# 3台目のチューナー（地上波・BS）
+- name: PX-Q1UD-S3
+  types:
+    - GR    # 地上波
+    - BS    # BS
+  command: recpt1 --device /dev/dvb/adapter2 <channel> - -
+  dvbDevicePath: /dev/dvb/adapter2/dvr0
+  decoder: arib-b25-stream-test
+  isDisabled: false
+
+# 4台目のチューナー（地上波・BS）
+- name: PX-Q1UD-S4
+  types:
+    - GR    # 地上波
+    - BS    # BS
+  command: recpt1 --device /dev/dvb/adapter3 <channel> - -
+  dvbDevicePath: /dev/dvb/adapter3/dvr0
+  decoder: arib-b25-stream-test
+  isDisabled: false

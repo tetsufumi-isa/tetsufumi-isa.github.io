@@ -1,0 +1,139 @@
+# Mirakurun チャンネル設定ファイル
+# 関東地方の一般的な設定例（地域に応じて調整が必要）
+
+# 地上波デジタル (GR)
+- name: NHK総合・東京
+  type: GR
+  channel: '27'
+  serviceId: 1024
+  satelite: ~
+  space: 0
+  freq: 551142857
+  polarity: ~
+
+- name: NHK Eテレ東京
+  type: GR
+  channel: '26'
+  serviceId: 1032
+  satelite: ~
+  space: 0
+  freq: 545142857
+  polarity: ~
+
+- name: 日本テレビ
+  type: GR
+  channel: '25'
+  serviceId: 1040
+  satelite: ~
+  space: 0
+  freq: 539142857
+  polarity: ~
+
+- name: テレビ朝日
+  type: GR
+  channel: '24'
+  serviceId: 1064
+  satelite: ~
+  space: 0
+  freq: 533142857
+  polarity: ~
+
+- name: TBS
+  type: GR
+  channel: '22'
+  serviceId: 1048
+  satelite: ~
+  space: 0
+  freq: 521142857
+  polarity: ~
+
+- name: テレビ東京
+  type: GR
+  channel: '23'
+  serviceId: 1072
+  satelite: ~
+  space: 0
+  freq: 527142857
+  polarity: ~
+
+- name: フジテレビ
+  type: GR
+  channel: '21'
+  serviceId: 1056
+  satelite: ~
+  space: 0
+  freq: 515142857
+  polarity: ~
+
+- name: TOKYO MX
+  type: GR
+  channel: '20'
+  serviceId: 1088
+  satelite: ~
+  space: 0
+  freq: 509142857
+  polarity: ~
+
+# BSデジタル (BS)
+- name: NHK BS1
+  type: BS
+  channel: BS15_0
+  serviceId: 101
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: NHK BSプレミアム
+  type: BS
+  channel: BS03_1
+  serviceId: 103
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: BS日テレ
+  type: BS
+  channel: BS13_0
+  serviceId: 141
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: BS朝日
+  type: BS
+  channel: BS01_0
+  serviceId: 151
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: BS-TBS
+  type: BS
+  channel: BS01_1
+  serviceId: 161
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: BSテレ東
+  type: BS
+  channel: BS01_2
+  serviceId: 171
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~
+
+- name: BSフジ
+  type: BS
+  channel: BS13_1
+  serviceId: 181
+  satelite: ~
+  space: ~
+  freq: ~
+  polarity: ~

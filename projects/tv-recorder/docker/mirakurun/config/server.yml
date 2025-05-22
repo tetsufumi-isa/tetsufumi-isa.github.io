@@ -1,4 +1,0 @@
-port: 40772
-logLevel: 3
-maxLogHistory: 1000
-path: /var/run/mirakurun.sock
