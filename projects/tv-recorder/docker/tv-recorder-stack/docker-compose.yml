@@ -3,12 +3,12 @@ version: '3.8'
 services:
   # Mirakurunサービス（チューナー・B-CAS管理）
   mirakurun:
-    image: chinachu/mirakurun:latest
+    build: ./mirakurun-custom
     container_name: mirakurun
     restart: always
     privileged: true
     volumes:
-      - ./mirakurun/config:/app/config
+      - ./mirakurun/config:/app-config
       - ./mirakurun/data:/app/data
     devices:
       # 4つのPX-Q1UDチューナーをコンテナに渡す
@@ -25,11 +25,7 @@ services:
     environment:
       - TZ=Asia/Tokyo
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:40772/api/status"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 60s
+      disable: true
 
   # MariaDBサービス（EPGStationのデータベース）
   mysql:
@@ -68,10 +64,8 @@ services:
       - "8888:8888"   # EPGStation Web UI用ポート
       - "8889:8889"   # EPGStation API用ポート（オプション）
     depends_on:
-      mirakurun:
-        condition: service_healthy
-      mysql:
-        condition: service_healthy
+      - mirakurun
+      - mysql
     networks:
       - tv_network
     environment:
